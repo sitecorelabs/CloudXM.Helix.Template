@@ -44,4 +44,5 @@ _ReSharper*/
 #Nuget packages folder
 packages/
 license.xml
-data/cm/*
+#We want the data folder there
+#data/cm/*
