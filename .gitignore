@@ -2,7 +2,8 @@
 .sitecore/user.json
 
 # NuGet cache for Sitecore CLI
-.sitecore/package-cache/
+#We are using some prerelease packages that we need cached
+#.sitecore/package-cache/
 
 # Ephemeral index caches used by serialization, do not commit
 .scindex
